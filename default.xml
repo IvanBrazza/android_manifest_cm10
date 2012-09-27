@@ -337,7 +337,6 @@
 
   <project path="buildscript" name="dudeman1996/CM10-marvel-nightly-builder-script" revision="master" >
     <copyfile src="build.sh" dest="rom-build.sh" />
-	<copyfile src="patch.sh" dest="patch.sh" />
   </project>
 
   <project name="projects/marvel/kernel_htc_msm7227.git" path="kernel/htc/msm7227" remote="cryptomilk" />
